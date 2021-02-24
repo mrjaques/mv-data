@@ -1,46 +1,38 @@
 {
 	"companyLogo": "https://lea.verou.me/logo.svg",
-	"companyName": "Lea Verou",
-	"companyAddress": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
-	"companyURL": "http://lea.verou.me",
-	"companyEmail": "lea@verou.me",
+	"companyName": "",
+	"companyAddress": "",
+	"companyURL": "",
+	"companyEmail": "",
 	"invoice": [
 		{
-			"id": "2",
-			"date": "2016-10-06",
+			"id": "Comprar café",
+			"date": "2021-02-24",
 			"recipient": {
-				"name": "Widget Corp",
-				"address": "1 Technology Square\nCambridge, MA 02139"
+				"name": "Gabriel",
+				"address": "Rua america"
 			},
 			"currency": "$",
 			"services": [
 				{
-					"description": "Website design",
-					"amount": "20000"
+					"description": "",
+					"amount": ""
 				},
-				{
-					"description": "Advertising",
-					"amount": "100"
-				},
-				{
-					"description": "Web hosting",
-					"amount": "20"
-				}
+				{},
+				{}
 			]
 		},
 		{
-			"id": "1",
-			"date": "2016-10-07",
-			"recipient": {
-				"name": "John Doe",
-				"address": "2 Modern Red Square\nLong Island City\nNew York, NY 1120"
-			},
-			"currency": "$",
+			"recipient": {},
 			"services": [
-				{
-					"description": "House cleaning",
-					"amount": "70"
-				}
+				{}
+			]
+		},
+		{
+			"date": "2016-10-07",
+			"recipient": {},
+			"services": [
+				{}
 			]
 		}
 	]
